@@ -1,0 +1,25 @@
+{
+  "name": "razil555",
+  "version": "1.0.0",
+  "description": "this is just a sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razil5/razil555.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "razil5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razil5/razil555.git"
+  },
+  "homepage": "https://github.com/razil5/razil555.git",
+  "dependencies": {
+    "sample123package": "^1.0.0"
+  }
+}
